@@ -1,10 +1,10 @@
 Observers in Spring
 ===================
 
-> To the man-in-the-street, who, I'm sorry to say,
-> Is a keen observer of life,
-> The word "Intellectual" suggests straight away
-> A man who's untrue to his wife.
+> To the man-in-the-street, who, I'm sorry to say,  
+> Is a keen observer of life,  
+> The word "Intellectual" suggests straight away  
+> A man who's untrue to his wife.  
 >
 > -- W.H. Auden
 
