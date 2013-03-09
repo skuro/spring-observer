@@ -5,6 +5,7 @@ Observers in Spring
 > Is a keen observer of life,
 > The word "Intellectual" suggests straight away
 > A man who's untrue to his wife.
+>
 > -- W.H. Auden
 
 The Observer pattern is a very basic one out of the GoF bible which is unbelivably easy to implement and still quote
@@ -57,5 +58,6 @@ implementation are easy enough to be applied in your Spring application without 
 License
 =======
 
-All the Java code in this repository is released under the MIT license. This README is released under
+All the Java code in this repository is released under the
+[MIT license](https://raw.github.com/skuro/spring-observer/master/LICENSE.txt). This README is released under
 [CC Attribution-ShareAlike](http://creativecommons.org/licenses/by-sa/3.0/).
